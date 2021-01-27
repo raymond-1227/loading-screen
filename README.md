@@ -5,7 +5,7 @@ This is just a loading screen template!
 
 ## Example Template
 
-Please [click here](https://raymond-1227.github.io/better-snake) to see how it will look like!
+Please [click here](https://raymond-1227.github.io/loading-screen) to see how it will look like!
 
 ## Credits
 
